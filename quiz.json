@@ -1,0 +1,42 @@
+[
+	{
+		"question": "What color is the sky?",
+		"m": "A: Green\n B: Blue\n C: Yellow\nD: Brown",
+		"answers": ["blue", "b"]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"m": "A: 18\nB: 16\nC: 3\nD: 26",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix", "d"]
+	},
+	{
+	 "question": "How old is Discord?",
+	 "m": "A: 1\nB: 5\nC: 3\nD: 8",
+	 "answers": ["5", "five", "b"]
+	},
+	{
+		"question": "When was Lucasfilm / Disney TM Star Wars's First film went live?",
+		"m": "A: 'A new Hope'\nB: 'The Empire Strikes Back\nC: 'The Ewok Adventure'\nD: 'The Phantom Menace'",
+		"answers": ["a", "a new hope", "new hope"]
+	},
+	{
+		"question": "How old is Minecraft?",
+		"m": "A: 3\nB: 12\nC: 13\nD: 9",
+		"answers": ["b", "11", "eleven"]
+	},
+	{
+		"question": "How old is Microsoft Office",
+		"m": "A: 34\nB: 31\nC:46\nD: 16",
+		"answers": ["b", "31", "thirty-one", "thirty one"]
+	},
+	{
+		"question": "When did Google go public?",
+		"m": "A: 17\nB: 18\nC: 34\nD: 27",
+		"answers": ["a", "17", "seventeen"]
+	},
+	{
+		"question": "What is this bot's main coding language?",
+		"m": "A: Node.JS / Javascript\nB: Javascript\nC: Python\nD: Lua",
+		"answers": ["a", "node.js", "nodejs", "javascript", "js", "node.js  javascript", "nodejs javascript", "javascipt nodejs"]
+	}
+]
